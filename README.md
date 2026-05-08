@@ -6,7 +6,7 @@
 
 ### 👋 Olá! Bem-vindo(a) ao meu perfil
 
-Sou um Desenvolvedor Full Stack apaixonado por tecnologia e em constante evolução. Minha base foi construída com 6 anos de experiência em Suporte de TI e Infraestrutura, o que me deu uma visão única sobre estabilidade de sistemas, raciocínio analítico e foco na experiência do usuário. Hoje, dedico essa bagagem à construção de soluções modernas do zero.
+Sou graduando em Sistemas de Informação e Desenvolvedor Full Stack formado pela Generation Brasil. Venho de uma sólida trajetória em Suporte de TI e Infraestrutura, ambiente que afiou meu raciocínio lógico e minha habilidade de diagnosticar falhas complexas sob pressão. Hoje, aplico esse "olhar clínico" na construção de software. Embora atue com o ecossistema JavaScript (React, Node.js, NestJS), meu verdadeiro diferencial é o foco nos fundamentos da engenharia de software: compreendo que ferramentas mudam, mas uma base lógica estruturada resolve problemas em qualquer stack. Busco minha primeira oportunidade como desenvolvedor para somar minha resiliência técnica e maturidade profissional a times inovadores.
 
 - 🎓 Cursando o **6º período de Sistemas de Informação**.
 - 🚀 Desenvolvedor Full Stack formado pelo bootcamp intensivo da **Generation Brasil**.
